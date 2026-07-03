@@ -27,7 +27,6 @@ assets/
 │   └── voices/
 │
 └── cinematics/
-    ├── c8032ed5fbab32dc6bde1da66e3bac5d.mp4
     └── guardian_cinematics/
 ```
 
@@ -59,9 +58,6 @@ ASSET_CONFIG.remoteBase = "https://hobohustlers.github.io/LearnMon-Assets/assets
 Then request assets like:
 
 ```
-cinematics/c8032ed5fbab32dc6bde1da66e3bac5d.mp4
-→ https://hobohustlers.github.io/LearnMon-Assets/assets/cinematics/c8032ed5fbab32dc6bde1da66e3bac5d.mp4
-
 video/intro_v1.mp4
 → https://hobohustlers.github.io/LearnMon-Assets/assets/video/intro_v1.mp4
 
@@ -77,7 +73,7 @@ audio/music/theme.mp3
 - [x] Repository created
 - [x] Folder structure set up
 - [ ] GitHub Pages enabled
-- [x] Video uploaded to `assets/cinematics/c8032ed5fbab32dc6bde1da66e3bac5d.mp4`
+- [x] Video uploaded to `assets/video/intro_v1.mp4`
 - [ ] Video plays from GitHub Pages URL
 
 ## Phase B
@@ -96,7 +92,7 @@ Convert LearnMon into a proper Android app using the hosted assets.
 
 Once GitHub Pages is enabled, test this URL in your browser:
 ```
-https://hobohustlers.github.io/LearnMon-Assets/assets/cinematics/c8032ed5fbab32dc6bde1da66e3bac5d.mp4
+https://hobohustlers.github.io/LearnMon-Assets/assets/video/intro_v1.mp4
 ```
 
 If it plays, you're ready for Phase B! 🎬
